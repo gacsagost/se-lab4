@@ -1,0 +1,3 @@
+SUCCESS #<-GT4500
+SUCCESS #<-fire
+FAIL #<- secondary fire

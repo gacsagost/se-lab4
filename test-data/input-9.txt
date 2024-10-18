@@ -1,0 +1,3 @@
+GT4500,1,0,1,1 #testing if fired all,but one is failing
+TORPEDO,ALL #should be success
+TORPEDO,ALL #should be fail

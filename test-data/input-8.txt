@@ -1,0 +1,3 @@
+GT4500,1,0,0,0 #testing if fired both, but second is empty
+TORPEDO,ALL #should be success
+TORPEDO,SINGLE #should be fail
