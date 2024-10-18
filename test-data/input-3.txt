@@ -1,0 +1,4 @@
+GT4500,2,0,0,0 #testing if fire repeteadly the same
+TORPEDO,SINGLE #should be success
+TORPEDO,SINGLE #should be success
+TORPEDO,SINGLE #should be fail
